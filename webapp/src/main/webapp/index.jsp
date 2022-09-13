@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1> New user flash Register subzero</h1>
-    <p>Please fill in this form to create an account with tony stark and hulk in on the way.</p>
+    <p>Please fill in this form to create an account with tony stark and hulk in on the way to kintaro.</p>
     <hr>
 <label for="namovenky best"><b>Namamu chepandi boss</b></label>
     <input type="text" placeholder="bullkeshava" bullinayudu="bulloda" id="buchamma" required>
