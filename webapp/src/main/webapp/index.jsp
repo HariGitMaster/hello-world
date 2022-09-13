@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> New user flash Register noob saibot kano kano kano subzero</h1>
+    <h1> New user hello buchibao</h1>
     <p>Please fill in this form to create an account with tony stark and hulk in on the way to kintaro.</p>
     <hr>
 <label for="namovenky best"><b>Namamu chepandi boss</b></label>
