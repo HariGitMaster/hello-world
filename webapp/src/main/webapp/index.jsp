@@ -1,9 +1,9 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> New user flash Register</h1>
+    <h1> New user flash Register subzero</h1>
     <p>Please fill in this form to create an account with tony stark and hulk in on the way.</p>
     <hr>
-<label for="namovenk"><b>Namamu</b></label>
+<label for="namovenky best"><b>Namamu chepandi boss</b></label>
     <input type="text" placeholder="bullkeshava" bullinayudu="bulloda" id="buchamma" required>
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Emailbrock" namerajappa="emailrajuappa" id="emailthoamma" required>
